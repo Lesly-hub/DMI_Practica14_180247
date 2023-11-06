@@ -44,3 +44,8 @@ En esta Practica del proyeto se contruyo:
 El widget `MediaDetail` es un widget Flutter que muestra información detallada sobre un elemento multimedia, incluyendo su título, póster, calificación y descripción general. Crea una interfaz de usuario visualmente atractiva combinando un fondo de imagen con un efecto de desenfoque y superponiendo los detalles del elemento multimedia.
 
 ## Capturas de Pantalla
+![image](https://github.com/Lesly-hub/DMI_Practica14_180247/assets/74167109/8c517fe1-2ec5-4e25-a91e-2579b2ee269a)
+![image](https://github.com/Lesly-hub/DMI_Practica14_180247/assets/74167109/cc8aa432-405b-4598-b51b-77dc2b28bb16)
+![image](https://github.com/Lesly-hub/DMI_Practica14_180247/assets/74167109/a24f57a5-aaf9-47f3-bcac-3f522138fd1f)
+
+
